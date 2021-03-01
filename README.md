@@ -1,6 +1,6 @@
 # Seattle Streets
 
-This is a puzzle game (also known as grid locked, or rush hour) - originally created in Silverlight for a lab series for [my blog](http://tessferrandez.github.io) - While restoring my blog in 2020 I updated this to the closest available technology (WPF) and moved the lab series to this repo instead.
+This is a puzzle game (also known as grid locked, or rush hour) - originally created in Silverlight for a lab series for [my blog](https://www.tessferrandez.com) - While restoring my blog in 2020 I updated this to the closest available technology (WPF) and moved the lab series to this repo instead.
 
 ![Seattle Streets](docs/assets/seattlestreets.png)
 
